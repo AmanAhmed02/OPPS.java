@@ -3,3 +3,4 @@ public class Inheritence {
         System.out.println("Writing Please");
     }
 }
+    
